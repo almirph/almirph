@@ -1,7 +1,4 @@
-- 👋 Olá! Eu sou @almirph
-- 👀 Sou interessado em filosofia, computador, tecnologia, jogos, calistenia
-- 💞️ Posso colaborar em qualquer projeto que ache interessante, estou sempre disposto a aprender
-- 📫 Entre em contato pelo linkedin https://www.linkedin.com/in/almir-arruda-070408156/
+👋 Hi! I’m Almir Arruda (@almirph)
 
 <!---
 almirph/almirph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
