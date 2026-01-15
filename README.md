@@ -4,11 +4,10 @@ Senior Full Stack Engineer with 7 years of experience building scalable, high-pe
 I focus on clean architecture, reusable components, and solving real problems.
 
 ### What I Work On
-- Designing scalable frontend architectures
-- Building reusable, logic-driven components
+- Designing scalable frontend and backend architectures
 - Improving performance and user experience
 - Writing clean, testable, maintainable code
-- Collaborating closely with product teams
+- Collaborating closely with product team
 
 ### Highlights
 - Improved login performance from **8.5s to 2.5s**
